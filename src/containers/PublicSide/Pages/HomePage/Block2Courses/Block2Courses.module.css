@@ -1,0 +1,116 @@
+.oneSlide {
+    width: 329px;
+min-height: 267px;
+margin: auto;
+
+/* background: #FFFFFF; */
+border-radius: 7px;
+/* display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center; */
+}
+
+.sliderWrapper {}
+
+.oneSlideTop {
+    width: 329px;
+    min-height: 180px;
+    
+    
+    background: #fff;
+    border-radius: 7px;
+    margin: auto;
+}
+
+.oneSlideBottom {
+
+width: 329px;
+min-height: 87px;
+
+background: #FFFFFF;
+border-radius: 7px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: auto;
+}
+
+
+
+.title {
+    margin-bottom: 15px;
+  }
+  .title p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 0px;
+    color: #000000;
+    margin: 10px 0px 0px;
+    /* font-family: 'BlinkMacSystemFont';
+    font-family: 'Segoe UI';
+    font-family: 'Roboto';
+    font-family: 'Oxygen';
+    font-family: 'Helvetica Neue';
+    font-family: 'Montserrat'; */
+  }
+  
+  .duration p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+  
+    color: #000000;
+  }
+  
+  .from_min_price p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+  
+    color: #000000;
+  }
+
+  .bottomText {
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+  }
+
+  .coursesText {
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+
+padding:0px 150px 36px; 
+color: #000000;
+/* text-align: center; */
+}
+
+.detail {
+    display: flex;
+    flex-direction: row;
+    padding: 14px 16px;
+    width: 198px;
+    height: 56px;
+    border: 3px solid #84E6CB;
+    border-radius: 33px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #81E2B4;
+
+    margin: 40px auto;
+}

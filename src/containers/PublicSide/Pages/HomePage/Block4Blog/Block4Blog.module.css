@@ -1,0 +1,126 @@
+.articlesWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 25px;
+
+}
+
+.articlesTitle {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    padding: 0px 135px 36px;
+    color: #000000;
+    /* text-align: center; */
+}
+
+.articles {
+    display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 50px 10px;
+}
+
+.articleWrapper {
+    /* box-shadow: 1px 1px 7px #dcdcdc; */
+    width: 329px;
+}
+
+.articleTop {
+    width: 329px;
+    height: 245px;
+    border-radius: 7px;
+    margin: auto;
+}
+
+.articleBottom {
+    background: #fff;
+    min-height: 145px;
+    padding: 20px 15px;
+    border-radius: 0px 0px  7px 7px;
+    width: 329px;
+    margin: auto;
+}
+
+.timeAndViews {
+display: flex;
+justify-content: space-around;
+
+}
+.viewsAndImg {
+    display: flex;
+}
+
+.eye {
+    width: 22px;
+    margin-right: 6px;
+}
+
+.time {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #717171;
+}
+
+.views {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #717171;
+}
+
+.articleTitle {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #000000;
+    margin: 15px 0px;
+
+}
+
+.articleDescription {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #717171;
+    margin: 15px 0px;
+
+}
+
+.detail {
+    display: flex;
+    flex-direction: row;
+    padding: 14px 43px;
+    width: 198px;
+    height: 56px;
+    border: 3px solid #84e6cb;
+    border-radius: 33px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #81e2b4;
+  
+    margin: 40px auto;
+  }

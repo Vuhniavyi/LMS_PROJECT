@@ -1,0 +1,106 @@
+.oneSlide {
+  width: 211px;
+
+  min-height: 267px;
+  margin: auto;
+
+  border-radius: 7px;
+}
+
+.sliderWrapper {
+}
+
+.oneSlideTop {
+  width: 211px;
+  height: 211px;
+
+  border-radius: 12px;
+
+  background: #fff;
+  border-radius: 7px;
+  margin: auto;
+}
+
+.oneSlideBottom {
+  width: 211px;
+
+  min-height: 100px;
+
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.title {
+  margin-bottom: 15px;
+}
+.title p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  margin-bottom: 0px;
+  color: #000000;
+  margin: 10px 0px 0px;
+  text-align: center;
+}
+
+.duration p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+.from_min_price p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+.bottomText {
+  display: flex;
+  justify-content: space-around;
+  width: 250px;
+}
+
+.coursesText {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+
+  padding: 0px 150px 36px;
+  color: #000000;
+  /* text-align: center; */
+}
+
+.detail {
+  display: flex;
+  flex-direction: row;
+  padding: 14px 16px;
+  width: 198px;
+  height: 56px;
+  border: 3px solid #84e6cb;
+  border-radius: 33px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #81e2b4;
+
+  margin: 40px auto;
+}

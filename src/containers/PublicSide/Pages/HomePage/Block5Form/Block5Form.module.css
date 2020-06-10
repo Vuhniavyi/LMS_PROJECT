@@ -1,0 +1,48 @@
+.form {
+  width: 80%;
+}
+
+.Block5Left {
+}
+
+.formWrapper {
+}
+
+.title {
+  text-align: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  padding: 17px 26px;
+
+  width: 153px;
+  height: 56px;
+
+  background: #84e6cb;
+  border-radius: 33px;
+  margin: 12px auto;
+}
+
+.button p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+
+.inputs input {
+    background: #F5F5F5;
+    border-radius: 5px;
+}

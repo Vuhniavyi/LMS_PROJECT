@@ -1,0 +1,196 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.block1 {
+  min-height: 650px;
+  display: flex;
+  /* background:  url(../../../../img/fone.png); */
+  /* background-size: cover;
+  min-height: 100%; */
+  /* justify-content: space-between; */
+}
+
+.block1Left {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block1LeftIn {
+  width: 500px;
+}
+
+.topText {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.comp {
+  width: 17px;
+  height: 17px;
+}
+
+.text1 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 91.4%;
+  color: #505050;
+  margin-left: 5px;
+}
+.title {
+  display: flex;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.titleText {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 58px;
+
+  color: #303030;
+}
+
+.Slovo {
+  width: 140px;
+  height: 39px;
+  position: relative;
+  bottom: 8px;
+  left: 7px;
+}
+
+.description {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+
+  color: #000000;
+}
+
+.dones {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.done {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.doneImg {
+  width: 16px;
+  height: 16px;
+}
+
+.doneText {
+  margin-left: 5px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+.buttonn {
+  display: flex;
+  flex-direction: row;
+  padding: 5px 30px;
+
+  width: 205px;
+  height: 56px;
+
+  background: #84e6cb;
+  border-radius: 33px;
+  margin-top: 20px;
+}
+
+.buttonn p {
+  position: static;
+  width: 145px;
+  height: 22px;
+  left: 30px;
+  top: 17px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  align-self: center;
+  /* margin: 10px 0px; */
+}
+
+.Block2Courses {
+  padding: 50px 20px;
+  /* min-height: 650px;
+  background:  url(../../../../img/fone1.png);
+  background-size: cover;
+  min-height: 100%; */
+  width: 99%;
+}
+
+.Block3Courses {
+  padding: 50px 20px;
+  /* min-height: 650px;
+  background:  url(../../../../img/fone2.png);
+  background-size: cover;
+  min-height: 100%; */
+}
+
+.accardion {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.stars {
+  width: 330px;
+  height: 329px;
+}
+
+.Block5Form {
+  display: flex;
+  justify-content: center;
+}
+
+.Block5Left {
+  /* width: 50%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Block5 {
+  display: flex;
+  width: 800px;
+  height: 347px;
+  justify-content: center;
+  background: #ffffff;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+
+.Block5Right {
+  width: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
